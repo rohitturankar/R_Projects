@@ -1,0 +1,6 @@
+name	weight
+C_Smith	107
+D_Smith	104
+A_Smith	104
+H_Smith	102
+I_Smith	100

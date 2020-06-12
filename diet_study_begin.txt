@@ -1,0 +1,7 @@
+name	weight
+A_Smith	270
+B_Smith	263
+C_Smith	294
+D_Smith	218
+E_Smith	305
+F_Smith	261
